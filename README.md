@@ -45,6 +45,14 @@ This project focuses on **Exploratory Data Analysis (EDA)** and **Feature Engine
 
 ---
 
+🧠 Key Takeaways
+Duration, total stops, and departure time significantly impact flight prices.
+
+Proper feature engineering can enhance the performance of prediction models.
+
+Clean and well-structured data forms the foundation of any successful ML pipeline.
+
+
 ## 🚀 How to Run
 
 1. Clone the repository:
@@ -53,4 +61,17 @@ This project focuses on **Exploratory Data Analysis (EDA)** and **Feature Engine
 
 ## Install dependencies (preferably via virtual environment):
 - pip install -r requirements.txt
+- 
+## Open the Jupyter notebook:
+https://github.com/Gowtham-su/Flight-Price-Prediction---EDA-Feature-Engineering/blob/d0be185b367bf351c1aae8bd8c9abb9658deb7cd/Files/FENG%20Flight_price_Prediction.ipynb
+
+🙋‍♂️ About Me
+This project is part of my Data Science Portfolio. I'm transitioning into the data analytics space with strong hands-on skills in Python, Power BI, and SQL.
+Connect with me on LinkedIn or check out more projects in my GitHub portfolio.
+
+📬 Contact
+If you have questions or feedback, feel free to reach out:
+
+📧 Email: gowtham.ds1990@gmail.com
+
 
