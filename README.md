@@ -57,7 +57,7 @@ Clean and well-structured data forms the foundation of any successful ML pipelin
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Gowtham-su/Flight-Price-Prediction---EDA-Feature-Engineering
+   https://github.com/Gowtham-su/Flight-Price-Prediction---EDA-Feature-Engineering
 
 ## Install dependencies (preferably via virtual environment):
 - pip install -r requirements.txt
